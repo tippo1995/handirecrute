@@ -122,7 +122,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `user`, `password`) VALUES
+INSERT INTO `users` (`handirecrute.database.windows.net`, `admin2016`, `handi2015`) VALUES
 (1, 'admin', 'admin2016#'),
 (2, 'quebaj', 'handi2015');
 
